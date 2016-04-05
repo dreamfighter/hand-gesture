@@ -1,0 +1,6 @@
+0,26,41,255
+temp.mdl
+RBF[c1.25g-1].mdl-Parallel Left-Right3.hmm
+VMware Virtual USB Video Device
+30
+
