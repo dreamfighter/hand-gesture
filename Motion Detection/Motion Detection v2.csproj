@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7D641881-4A8A-4897-B94C-FAE8E9929A14}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Motion_Detection_v2</RootNamespace>
+    <AssemblyName>Motion Detection v2</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ManifestCertificateThumbprint>942FA1DF7ED82AC48A58E8F8EEF46F3F8948A82A</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Motion Detection v2_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <StartupObject>Motion_Detection_v2.Program</StartupObject>
+    <PublishUrl>D:\My Project\Visual Studio 2005\publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsUrl>I:\VCSExpress\WCU</BootstrapperComponentsUrl>
+    <ApplicationIcon>webcam.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AviFile, Version=1.0.4018.32506, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AviFile.dll</HintPath>
+    </Reference>
+    <Reference Include="CvBlobs, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86" />
+    <Reference Include="Emgu.CV, Version=2.1.0.793, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL" />
+    <Reference Include="Emgu.CV.UI, Version=2.1.0.793, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL" />
+    <Reference Include="Emgu.Util, Version=2.1.0.793, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition, Version=2009.1.23.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>F:\Temp\source\WebCamWrapper\!ref\System.ComponentModel.Composition.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WebCamLib, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\WebCamLib.dll</HintPath>
+    </Reference>
+    <Reference Include="WebCam_Capture, Version=1.0.3680.24306, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\WebCam_Capture.dll</HintPath>
+    </Reference>
+    <Reference Include="zlib.net, Version=1.0.3.0, Culture=neutral, PublicKeyToken=47d7877cb3620160" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Blob\Blob.cs" />
+    <Compile Include="Blob\BlobAnalisis.cs" />
+    <Compile Include="Blob\BlobImageJava.cs" />
+    <Compile Include="Blob\BlobsInvoke.cs" />
+    <Compile Include="Camera\Camera.cs" />
+    <Compile Include="Camera\CameraService.cs" />
+    <Compile Include="Camera\ExportInterfaceNames.cs" />
+    <Compile Include="Form\RecordVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\RecordVideo.Designer.cs">
+      <DependentUpon>RecordVideo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\DepthForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\DepthForm.Designer.cs">
+      <DependentUpon>DepthForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\YCrCb.cs" />
+    <Compile Include="Filtering\Filtering.cs" />
+    <Compile Include="Filtering\KalmanFiltering.cs" />
+    <Compile Include="Filtering\SkinFiltering.cs" />
+    <Compile Include="Form\FormFaceDetection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormFaceDetection.Designer.cs">
+      <DependentUpon>FormFaceDetection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FormVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormVideo.Designer.cs">
+      <DependentUpon>FormVideo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FormTrainingHmm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormTrainingHmm.Designer.cs">
+      <DependentUpon>FormTrainingHmm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FormTrainingSvm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormTrainingSvm.Designer.cs">
+      <DependentUpon>FormTrainingSvm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HandShape\HandShape.cs" />
+    <Compile Include="Hmm\ClassifierHmm.cs" />
+    <Compile Include="Hmm\Hmm.cs" />
+    <Compile Include="Form\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hmm\HmmProblem.cs" />
+    <Compile Include="MouseHelper\MouseAction.cs" />
+    <Compile Include="MouseHelper\Helper.cs" />
+    <Compile Include="MouseHelper\MouseIntercep.cs" />
+    <Compile Include="Form\Preview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Preview.Designer.cs">
+      <DependentUpon>Preview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Recognition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Recognition.Designer.cs">
+      <DependentUpon>Recognition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\SecondForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\SecondForm.Designer.cs">
+      <DependentUpon>SecondForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form\RecordVideo.resx">
+      <DependentUpon>RecordVideo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\DepthForm.resx">
+      <DependentUpon>DepthForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormFaceDetection.resx">
+      <DependentUpon>FormFaceDetection.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormTrainingHmm.resx">
+      <DependentUpon>FormTrainingHmm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormTrainingSvm.resx">
+      <DependentUpon>FormTrainingSvm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormVideo.resx">
+      <DependentUpon>FormVideo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Preview.resx">
+      <DependentUpon>Preview.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Recognition.resx">
+      <DependentUpon>Recognition.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\SecondForm.resx">
+      <DependentUpon>SecondForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\RecognitionV2.resx">
+      <DependentUpon>RecognitionV2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Form\RecognitionV2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\RecognitionV2.Designer.cs">
+      <DependentUpon>RecognitionV2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Setting\Setting.cs" />
+    <Compile Include="SkinDetector\CustomYCrCbSkinDetector.cs" />
+    <Compile Include="SkinDetector\HsvSkinDetector.cs" />
+    <Compile Include="SkinDetector\IColorSkinDetector.cs" />
+    <Compile Include="SkinDetector\YCrCbSkinDetector.cs" />
+    <Compile Include="Svm\Cache.cs" />
+    <Compile Include="Svm\ClassifierSvm.cs" />
+    <Compile Include="Svm\GaussianTransform.cs" />
+    <Compile Include="Svm\IRangeTransform.cs" />
+    <Compile Include="Svm\Kernel.cs" />
+    <Compile Include="Svm\Model.cs" />
+    <Compile Include="Svm\Node.cs" />
+    <Compile Include="Svm\Parameter.cs" />
+    <Compile Include="Svm\ParameterSelection.cs" />
+    <Compile Include="Svm\PerformanceEvaluator.cs" />
+    <Compile Include="Svm\PrecomputedKernel.cs" />
+    <Compile Include="Svm\Prediction.cs" />
+    <Compile Include="Svm\Problem.cs" />
+    <Compile Include="Svm\RangeTransform.cs" />
+    <Compile Include="Svm\Scaling.cs" />
+    <Compile Include="Svm\Solver.cs" />
+    <Compile Include="Svm\SupportClass.cs" />
+    <Compile Include="Svm\SVMExtensions.cs" />
+    <Compile Include="Svm\TemporaryCulture.cs" />
+    <Compile Include="Svm\Training.cs" />
+    <Compile Include="Voronoi\Voronoi.cs" />
+    <Compile Include="Voronoi\VoronoiElements.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="webcam.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

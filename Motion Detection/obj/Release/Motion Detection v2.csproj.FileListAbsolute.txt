@@ -1,0 +1,48 @@
+D:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Release\ResolveAssemblyReference.cache
+D:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion_Detection_v2.Form1.resources
+D:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion_Detection_v2.Properties.Resources.resources
+D:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion Detection v2.csproj.GenerateResource.Cache
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\obj\Release\ResolveAssemblyReference.cache
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion_Detection_v2.Form1.resources
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion_Detection_v2.Properties.Resources.resources
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion Detection v2.csproj.GenerateResource.Cache
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\bin\Release\Motion Detection v2.exe.manifest
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\bin\Release\Motion Detection v2.application
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\bin\Release\Motion Detection v2.exe
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\bin\Release\Motion Detection v2.pdb
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\bin\Release\cvClass.dll
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\bin\Release\Emgu.CV.dll
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\bin\Release\Emgu.CV.UI.dll
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\bin\Release\Emgu.Util.dll
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\bin\Release\openCV.dll
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\bin\Release\WebCam_Capture.dll
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\bin\Release\ZedGraph.dll
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\bin\Release\zlib.net.dll
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\bin\Release\zh-CN\ZedGraph.resources.dll
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\bin\Release\zh-CN\Emgu.CV.UI.resources.dll
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion Detection v2.exe.manifest
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion Detection v2.application
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion Detection v2.exe
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion Detection v2.pdb
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Release\Motion Detection v2.exe.config
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Release\Motion Detection v2.exe.manifest
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Release\Motion Detection v2.application
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Release\Motion Detection v2.exe
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Release\Motion Detection v2.pdb
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Release\ResolveAssemblyReference.cache
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion_Detection_v2.Properties.Resources.resources
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion Detection v2.csproj.GenerateResource.Cache
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion Detection v2.exe.manifest
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion Detection v2.application
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion Detection v2.exe
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion Detection v2.pdb
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion_Detection_v2.MainForm.resources
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion_Detection_v2.SecondForm.resources
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion_Detection_v2.Preview.resources
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion_Detection_v2.FormTrainingHmm.resources
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion_Detection_v2.FormTrainingSvm.resources
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion_Detection_v2.Recognition.resources
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Release\Motion_Detection_v2.FormVideo.resources
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Release\AviFile.dll
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Release\System.ComponentModel.Composition.dll
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Release\WebCamLib.dll

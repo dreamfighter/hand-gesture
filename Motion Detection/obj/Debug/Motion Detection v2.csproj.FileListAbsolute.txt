@@ -1,0 +1,95 @@
+D:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\Motion Detection v2.exe
+D:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\Motion Detection v2.pdb
+D:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\ResolveAssemblyReference.cache
+D:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion_Detection_v2.Form1.resources
+D:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion_Detection_v2.Properties.Resources.resources
+D:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion Detection v2.csproj.GenerateResource.Cache
+D:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion Detection v2.exe
+D:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion Detection v2.pdb
+D:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\Motion Detection v2.exe.manifest
+D:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\Motion Detection v2.application
+D:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion Detection v2.exe.manifest
+D:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion Detection v2.application
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion Detection v2.exe
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion Detection v2.pdb
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\bin\Debug\Motion Detection v2.exe.manifest
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\bin\Debug\Motion Detection v2.application
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\bin\Debug\Motion Detection v2.exe
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\bin\Debug\Motion Detection v2.pdb
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\obj\Debug\ResolveAssemblyReference.cache
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion_Detection_v2.Form1.resources
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion_Detection_v2.Properties.Resources.resources
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion Detection v2.csproj.GenerateResource.Cache
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion Detection v2.exe.manifest
+D:\My Project\Visual Studio\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion Detection v2.application
+D:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\Motion Detection v2.exe.config
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\Motion Detection v2.exe.config
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion Detection v2.exe
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion Detection v2.pdb
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\ResolveAssemblyReference.cache
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion_Detection_v2.Properties.Resources.resources
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion Detection v2.csproj.GenerateResource.Cache
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\Motion Detection v2.exe.manifest
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\Motion Detection v2.application
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\Motion Detection v2.exe
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\Motion Detection v2.pdb
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\ZedGraph.dll
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion Detection v2.exe.manifest
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion Detection v2.application
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\WebCam_Capture.dll
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion_Detection_v2.MainForm.resources
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion_Detection_v2.SecondForm.resources
+J:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\Motion Detection v2.exe.config
+J:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion Detection v2.exe
+J:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion Detection v2.pdb
+J:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\Motion Detection v2.exe.manifest
+J:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\Motion Detection v2.application
+J:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\Motion Detection v2.exe
+J:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\Motion Detection v2.pdb
+J:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\WebCam_Capture.dll
+J:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\ZedGraph.dll
+J:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+J:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\zh-CN\ZedGraph.resources.dll
+J:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\ResolveAssemblyReference.cache
+J:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion_Detection_v2.MainForm.resources
+J:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion_Detection_v2.Properties.Resources.resources
+J:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion_Detection_v2.SecondForm.resources
+J:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion Detection v2.csproj.GenerateResource.Cache
+J:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion Detection v2.exe.manifest
+J:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion Detection v2.application
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion_Detection_v2.Preview.resources
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion_Detection_v2.FormTrainingHmm.resources
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion_Detection_v2.FormTrainingSvm.resources
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion_Detection_v2.Recognition.resources
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\obj\Debug\Motion_Detection_v2.FormVideo.resources
+E:\My Project\Visual Studio 2005\C#\Motion Detection v2\Motion Detection v2\bin\Debug\System.ComponentModel.Composition.dll
+\\vmware-host\Shared Folders\zeger\Source Code\Motion Detection\bin\Debug\Motion Detection v2.exe.config
+\\vmware-host\Shared Folders\zeger\Source Code\Motion Detection\obj\Debug\Motion Detection v2.exe
+\\vmware-host\Shared Folders\zeger\Source Code\Motion Detection\obj\Debug\Motion Detection v2.pdb
+Z:\zeger\Source Code\Motion Detection\bin\Debug\Motion Detection v2.exe.config
+Z:\zeger\Source Code\Motion Detection\bin\Debug\Motion Detection v2.exe.manifest
+Z:\zeger\Source Code\Motion Detection\bin\Debug\Motion Detection v2.application
+Z:\zeger\Source Code\Motion Detection\bin\Debug\Motion Detection v2.exe
+Z:\zeger\Source Code\Motion Detection\bin\Debug\Motion Detection v2.pdb
+Z:\zeger\Source Code\Motion Detection\obj\Debug\ResolveAssemblyReference.cache
+Z:\zeger\Source Code\Motion Detection\obj\Debug\Motion_Detection_v2.FormTrainingHmm.resources
+Z:\zeger\Source Code\Motion Detection\obj\Debug\Motion_Detection_v2.FormTrainingSvm.resources
+Z:\zeger\Source Code\Motion Detection\obj\Debug\Motion_Detection_v2.FormVideo.resources
+Z:\zeger\Source Code\Motion Detection\obj\Debug\Motion_Detection_v2.MainForm.resources
+Z:\zeger\Source Code\Motion Detection\obj\Debug\Motion_Detection_v2.Preview.resources
+Z:\zeger\Source Code\Motion Detection\obj\Debug\Motion_Detection_v2.Properties.Resources.resources
+Z:\zeger\Source Code\Motion Detection\obj\Debug\Motion_Detection_v2.Recognition.resources
+Z:\zeger\Source Code\Motion Detection\obj\Debug\Motion_Detection_v2.SecondForm.resources
+Z:\zeger\Source Code\Motion Detection\obj\Debug\Motion Detection v2.csproj.GenerateResource.Cache
+Z:\zeger\Source Code\Motion Detection\obj\Debug\Motion Detection v2.exe.manifest
+Z:\zeger\Source Code\Motion Detection\obj\Debug\Motion Detection v2.application
+Z:\zeger\Source Code\Motion Detection\obj\Debug\Motion Detection v2.exe
+Z:\zeger\Source Code\Motion Detection\obj\Debug\Motion Detection v2.pdb
+Z:\zeger\Source Code\Motion Detection\obj\Debug\Motion_Detection_v2.FormFaceDetection.resources
+Z:\zeger\Source Code\Motion Detection\obj\Debug\Motion_Detection_v2.DepthForm.resources
+Z:\zeger\Source Code\Motion Detection\obj\Debug\Motion_Detection_v2.RecognitionV2.resources
+Z:\zeger\Source Code\Motion Detection\obj\Debug\Motion_Detection_v2.RecordVideo.resources

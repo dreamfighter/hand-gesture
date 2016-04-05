@@ -1,0 +1,20 @@
+﻿<UserCombinePreferences version="1.0" filename="/mnt/hda5/My Project/Visual Studio 2005/C#/Motion Detection v2/Motion Detection v2.sln">
+  <Files>
+    <File name="Welcome" />
+    <File name="Motion Detection v2/Form1.cs" line="9" column="38" />
+    <File name="Motion Detection v2/Form1.Designer.cs" line="1" column="1" />
+    <File name="Motion Detection v2/Blob/Blob.cs" line="120" column="22" />
+  </Files>
+  <Views>
+    <ViewMemento id="ProjectPad">
+      <Node selected="True" />
+    </ViewMemento>
+    <ViewMemento id="ClassPad">
+      <Node expanded="True" />
+    </ViewMemento>
+  </Views>
+  <Properties>
+    <Property key="ActiveWindow" value="/mnt/hda5/My Project/Visual Studio 2005/C#/Motion Detection v2/Motion Detection v2/Blob/Blob.cs" />
+    <Property key="ActiveConfiguration" value="Debug|Any CPU" />
+  </Properties>
+</UserCombinePreferences>
